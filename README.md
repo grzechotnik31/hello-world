@@ -2,3 +2,5 @@
 Moje pierwsze repozytorium
 
 Tak, wlasnie przeczhodze podstawowy tutorial github-a, dlatego tutaj pisze.
+
+la la la
